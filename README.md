@@ -55,9 +55,17 @@ lib/
 
 │ └── Posts.dart # Modelo de datos para una publicación
 
+├── views/
+
+│ └── Dashboard.dart # Rendering Principal
+
+│ └── HomePage.dart # Vista Principal
+
 ├── widgets/
 
 │ └── PostCard.dart # Componente de tarjeta para mostrar publicaciones
 
-└── CustomHomePage.dart # Página principal de la aplicación
+│ └── ButtonBar.dart # Componente de ButtonBar
+
+│ └── AppBar.dart # Componente de Appbar
 ```
